@@ -1,4 +1,4 @@
-Sure! Here's a more detailed version of the README with extra explanations and more emojis to make it even more engaging:
+
 
 ---
 
@@ -166,4 +166,4 @@ This project is open-source and available under the **MIT License**. Feel free t
 
 ---
 
-This version is now full of emojis to make it more interactive and visually appealing. 🎉 Let me know if you need any more tweaks!
+
