@@ -21,11 +21,12 @@ Welcome to the **Todo List Application**! This is a user-friendly web app design
 
 ---
 
-## Live Demo 🚀
+##Live Demo 🚀
+Experience the Todo List Application live! Click the link below to see it in action:
 
-Check out the live version of the Todo List Application in action! Click the link below to try it out:
+[Live Demo](https://samar007gill.github.io/TODO..Application/)
 
-[**Live Demo**](https://yourusername.github.io/todo-app/)
+
 
 Experience the features and see how it adapts beautifully to different devices.
 
