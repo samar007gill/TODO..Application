@@ -1,8 +1,6 @@
-
-
 ---
 
-# Todo List Application 📝✨
+# Todo List Application 📍✨
 
 Welcome to the **Todo List Application**! This is a user-friendly web app designed to help you keep track of your tasks and stay organized. It’s simple, effective, and fun to use. 😄
 
@@ -14,12 +12,22 @@ Welcome to the **Todo List Application**! This is a user-friendly web app design
 - **Add Tasks**: Easily add new tasks to your list with just a click! 🎉
 - **Edit Tasks**: Modify any task when necessary. You can change the task description and even update the status. ✏️
 - **Delete Tasks**: Remove any task that you no longer need. The app will ask for confirmation before you delete a task to avoid mistakes. 🗑️
-  
+
 ### 📱 **Responsive Design**
 - The app adapts beautifully to both desktop and mobile screens. No matter what device you’re using, it will look great! 📲
 
 ### 🖌️ **Custom Styling**
 - Customize the appearance by adjusting theme colors, button styles, and more! 🌈
+
+---
+
+## Live Demo 🚀
+
+Check out the live version of the Todo List Application in action! Click the link below to try it out:
+
+[**Live Demo**](https://yourusername.github.io/todo-app/)
+
+Experience the features and see how it adapts beautifully to different devices.
 
 ---
 
@@ -34,19 +42,19 @@ Welcome to the **Todo List Application**! This is a user-friendly web app design
 
 ## How to Use 🧑‍💻
 
-### 1️⃣ **Add a Task**
+### 1⃣ **Add a Task**
    - Click the **"➕ Add Todo"** button to open a popup.
    - Type your task in the input field and click the **"Save"** button to add it to the list. ✅
 
-### 2️⃣ **Edit a Task**
+### 2⃣ **Edit a Task**
    - If you want to change a task, click the **"✏️ Edit"** button next to the task.
    - Modify the text and save it. Your task will be updated immediately! 🔄
 
-### 3️⃣ **Delete a Task**
+### 3⃣ **Delete a Task**
    - To delete a task, click the **"🗑️ Delete"** button next to the task.
    - A confirmation popup will appear to make sure you want to delete it. If you confirm, the task will be removed. ⚠️
 
-### 4️⃣ **Responsive Design**
+### 4⃣ **Responsive Design**
    - On smaller screens, the app will adjust the layout to make sure it remains usable and looks great. You can even customize how it appears on mobile! 📱
 
 ---
@@ -79,9 +87,9 @@ Before you begin, make sure you have:
 
 ## Customization 🛠️
 
-You can personalize the app by modifying the styles and layout in the **CSS** file. 
+You can personalize the app by modifying the styles and layout in the **CSS** file.
 
-### 1️⃣ **Theme Colors**
+### 1⃣ **Theme Colors**
    - The app’s color theme is controlled by CSS variables. You can change these to match your brand or favorite colors.
    - To change the theme color, simply modify the `--theme-color` variable in the `:root` section:
      ```css
@@ -91,7 +99,7 @@ You can personalize the app by modifying the styles and layout in the **CSS** fi
      }
      ```
 
-### 2️⃣ **Button Customization**
+### 2⃣ **Button Customization**
    - Change the appearance of the buttons like "Add Todo" or "Delete" by modifying their respective CSS properties:
      ```css
      #add-todo-btn {
@@ -101,7 +109,7 @@ You can personalize the app by modifying the styles and layout in the **CSS** fi
      }
      ```
 
-### 3️⃣ **Responsive Layout Adjustments**
+### 3⃣ **Responsive Layout Adjustments**
    - The app is fully responsive, but you can customize how it looks on smaller screens by adjusting the media queries:
      ```css
      @media (max-width: 600px) {
@@ -165,5 +173,4 @@ If you’d like to improve the app or add new features, please:
 This project is open-source and available under the **MIT License**. Feel free to use and modify it as you like!
 
 ---
-
 
